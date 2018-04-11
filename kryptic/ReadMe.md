@@ -1,4 +1,4 @@
-Kryptic Number
+### Kryptic Number
 
 When the left half of the number’s square is added to right half of the square, the resultant sum is equivalent to the number itself.
 Example1:   9
